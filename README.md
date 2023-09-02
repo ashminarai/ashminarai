@@ -1,17 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Ashmina Rai</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <div style={{display:flex}}>
-<div>
 - 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashminarai](https://github.com/ashminarai)
   
 - 📫 How to reach me **raiashmina404@gmail.com**
-- </div>
-<div>
+  
 ![readmepic](https://github.com/ashminarai/ashminarai/assets/85731866/a70428a4-7c0a-427f-b86a-edb8156c1f12)
-</div>
-</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
