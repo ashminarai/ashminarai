@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **raiashmina404@gmail.com**
 
-<p align="left" height="200px">![readmepic](https://github.com/ashminarai/ashminarai/assets/85731866/a759ff26-9dfc-4f2f-b580-958b7d53ffb4)</p>
+![readmepic](https://github.com/ashminarai/ashminarai/assets/85731866/a759ff26-9dfc-4f2f-b580-958b7d53ffb4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
