@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![readmepic](https://github.com/ashminarai/ashminarai/assets/85731866/dfc4ccbe-4b15-486c-a771-9cfdf5bb33c9)
+
+
 <!--
 **ashminarai/ashminarai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
