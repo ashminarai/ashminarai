@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am a front-end developer 👋
 
 ![readmepic](https://github.com/ashminarai/ashminarai/assets/85731866/fcf259c0-4c78-43ff-aa19-18b13dadea46)
 
