@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/ashminarai/ashminarai/raw/main/assets/85731866/5dcd64c3-4753-491e-87a9-1f9a28791ea2.gif" alt="Your GIF" height="200">
+![readmepic](https://github.com/ashminarai/ashminarai/assets/85731866/a10e41c0-b2c6-411b-a0ea-f3c1e02502b6)
+
+
 
 
