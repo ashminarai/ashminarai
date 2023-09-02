@@ -1,12 +1,12 @@
 <h1 align="center">Hi there 👋, I'm Ashmina Rai</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-
+<img align="right" alt="Coding" width="400" src="https://github.com/ashminarai/ashminarai/assets/85731866/a759ff26-9dfc-4f2f-b580-958b7d53ffb4">
 - 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashminarai](https://github.com/ashminarai)
 
 - 📫 How to reach me **raiashmina404@gmail.com**
-
+<div align="center"> <img src="https://raw.githubusercontent.com/jaiswaladi246/jaiswaladi246/main/banner2.png"> </div>
 ![readmepic](https://github.com/ashminarai/ashminarai/assets/85731866/a759ff26-9dfc-4f2f-b580-958b7d53ffb4)
 
 <h3 align="left">Connect with me:</h3>
