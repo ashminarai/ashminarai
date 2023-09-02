@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![readmepic](https://github.com/ashminarai/ashminarai/assets/85731866/dfc4ccbe-4b15-486c-a771-9cfdf5bb33c9)
+<img src="![readmepic](https://github.com/ashminarai/ashminarai/assets/85731866/dfc4ccbe-4b15-486c-a771-9cfdf5bb33c9)
+" alt="Alt Text" height="200">
 
 
 <!--
