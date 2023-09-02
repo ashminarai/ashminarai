@@ -1,8 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Ashmina Rai</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashminarai&label=Profile%20views&color=0e75b6&style=flat" alt="ashminarai" /> </p>
-
 - 🌱 I’m currently learning **ReactJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashminarai](https://github.com/ashminarai)
