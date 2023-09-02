@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-<img src="![readmepic](https://github.com/ashminarai/ashminarai/assets/85731866/dfc4ccbe-4b15-486c-a771-9cfdf5bb33c9)
-" alt="Alt Text" height="200">
-
+<img src="![readmepic](https://github.com/ashminarai/ashminarai/assets/85731866/5dcd64c3-4753-491e-87a9-1f9a28791ea2) 
+" alt="Your GIF" height="200">
 
 <!--
 **ashminarai/ashminarai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
