@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![readmepic](https://github.com/ashminarai/ashminarai/assets/85731866/fcf259c0-4c78-43ff-aa19-18b13dadea46)
+
 <!--
 **ashminarai/ashminarai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/ashminarai/ashminarai/raw/main/assets/85731866/a10e41c0-b2c6-411b-a0ea-f3c1e02502b6.gif" alt="Your GIF" height="200">
 
 
 
