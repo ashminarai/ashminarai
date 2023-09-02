@@ -1,4 +1,4 @@
-![readmepic](https://github.com/ashminarai/ashminarai/assets/85731866/a70428a4-7c0a-427f-b86a-edb8156c1f12)<h1 align="center">Hi there 👋, I'm Ashmina Rai</h1>
+<h1 align="center">Hi there 👋, I'm Ashmina Rai</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
 <div style={{display:flex}}>
 <div>
@@ -9,7 +9,7 @@
 - 📫 How to reach me **raiashmina404@gmail.com**
 - </div>
 <div>
-![readmepic](https://github.com/ashminarai/ashminarai/assets/85731866/20e18707-ec5b-410d-ace7-1480a3d2d06c)
+![readmepic](https://github.com/ashminarai/ashminarai/assets/85731866/a70428a4-7c0a-427f-b86a-edb8156c1f12)
 </div>
 </div>
 
