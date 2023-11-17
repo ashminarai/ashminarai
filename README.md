@@ -2,7 +2,7 @@
 <h3 align="center">A passionate MERN stack developer from Nepal</h3>
 <img align="right" alt="Coding" width="320" src="https://github.com/ashminarai/ashminarai/assets/85731866/92f7d422-3952-42d2-b2f1-1be40130085b">
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **ReactJS, NodeJS, MongoDB**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ashminarai](https://github.com/ashminarai)
 
